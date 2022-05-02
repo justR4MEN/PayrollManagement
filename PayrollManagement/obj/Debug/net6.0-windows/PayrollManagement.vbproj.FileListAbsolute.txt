@@ -16,3 +16,21 @@ C:\Users\Ramib\Documents\Visual Studio 2022\repos\PayrollManagement\obj\Debug\ne
 C:\Users\Ramib\Documents\Visual Studio 2022\repos\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.pdb
 C:\Users\Ramib\Documents\Visual Studio 2022\repos\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.genruntimeconfig.cache
 C:\Users\Ramib\Documents\Visual Studio 2022\repos\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.Form2.resources
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.vbproj.AssemblyReference.cache
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.Form1.resources
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.Form2.resources
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.vbproj.GenerateResource.cache
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.AssemblyInfoInputs.cache
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.AssemblyInfo.vb
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.vbproj.CoreCompileInputs.cache
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.dll
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.pdb
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\bin\Debug\net6.0-windows\PayrollManagement.exe
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\bin\Debug\net6.0-windows\PayrollManagement.deps.json
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\bin\Debug\net6.0-windows\PayrollManagement.runtimeconfig.json
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\bin\Debug\net6.0-windows\PayrollManagement.dll
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\bin\Debug\net6.0-windows\PayrollManagement.pdb
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\refint\PayrollManagement.dll
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\PayrollManagement.genruntimeconfig.cache
+C:\Users\Ramib\Documents\School Projects\PayrollManagement\PayrollManagement\obj\Debug\net6.0-windows\ref\PayrollManagement.dll

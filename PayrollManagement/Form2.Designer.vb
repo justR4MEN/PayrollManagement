@@ -56,7 +56,7 @@ Partial Class Form2
         Me.btnDatabase.Name = "btnDatabase"
         Me.btnDatabase.Size = New System.Drawing.Size(161, 63)
         Me.btnDatabase.TabIndex = 2
-        Me.btnDatabase.Text = "Database Search and Report Generation"
+        Me.btnDatabase.Text = "Quick Report Generation"
         Me.btnDatabase.UseVisualStyleBackColor = True
         '
         'btnLogout

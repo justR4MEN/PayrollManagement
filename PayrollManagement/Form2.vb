@@ -9,4 +9,8 @@
         Me.Close()
         MsgBox("Logout Successful", MsgBoxStyle.OkOnly, "User Logout")
     End Sub
+
+    Private Sub btnDatabase_Click(sender As Object, e As EventArgs) Handles btnDatabase.Click
+
+    End Sub
 End Class
